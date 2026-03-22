@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Full Access"
+  short_description: "Apply project-scoped Codex full-access defaults"
+  default_prompt: "Use $project-full-access to apply Codex full-access defaults to this project."
